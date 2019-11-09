@@ -10,6 +10,6 @@ The next step is to validate the element's attributes in a second URL to try to 
 The project can be executed with the following command 
 
 
-Inside the projects folder
+Inside the project's folder
 
 _java -cp target/AgileTest-1.0-SNAPSHOT-jar-with-dependencies.jar parsing.XMLAnalizer_
